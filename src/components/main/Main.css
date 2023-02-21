@@ -1,0 +1,17 @@
+.Main_Section {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.Main_Section > h3 {
+  padding-top: 40px;
+  color: green;
+}
+.Main_Section > h2 {
+  padding: 0 60px;
+}
+.Main_Section > article {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 20px;
+}/*# sourceMappingURL=Main.css.map */
