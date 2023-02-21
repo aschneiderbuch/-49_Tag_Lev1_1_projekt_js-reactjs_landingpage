@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/49_Tag_Lev1_1_projekt_js-reactjs_landingpage/static/css/main.94897397.css",
+    "main.js": "/49_Tag_Lev1_1_projekt_js-reactjs_landingpage/static/js/main.a18f9e9f.js",
+    "static/js/787.79290225.chunk.js": "/49_Tag_Lev1_1_projekt_js-reactjs_landingpage/static/js/787.79290225.chunk.js",
+    "static/media/bild_2_kuche.jpg": "/49_Tag_Lev1_1_projekt_js-reactjs_landingpage/static/media/bild_2_kuche.7fd3c759a377c294a3ad.jpg",
+    "static/media/bild_8_dekoEssen_rot.jpg": "/49_Tag_Lev1_1_projekt_js-reactjs_landingpage/static/media/bild_8_dekoEssen_rot.6e0e2cb251fc7dd6dd7e.jpg",
+    "static/media/bild_5_pizza.jpg": "/49_Tag_Lev1_1_projekt_js-reactjs_landingpage/static/media/bild_5_pizza.03233c1014048728b50c.jpg",
+    "static/media/bild_1_salat.jpg": "/49_Tag_Lev1_1_projekt_js-reactjs_landingpage/static/media/bild_1_salat.3c701ed62336c77cf066.jpg",
+    "static/media/bild_6_suppeGernelen.jpg": "/49_Tag_Lev1_1_projekt_js-reactjs_landingpage/static/media/bild_6_suppeGernelen.bd0f9ccb87d23a49110f.jpg",
+    "static/media/bild_3_salat_mit_fleisch.jpg": "/49_Tag_Lev1_1_projekt_js-reactjs_landingpage/static/media/bild_3_salat_mit_fleisch.a74d9877e9db603345bb.jpg",
+    "static/media/bild_4_trinkGlas.jpg": "/49_Tag_Lev1_1_projekt_js-reactjs_landingpage/static/media/bild_4_trinkGlas.157f999ff735e9dd4f57.jpg",
+    "static/media/bild_7_nachtisch.jpg": "/49_Tag_Lev1_1_projekt_js-reactjs_landingpage/static/media/bild_7_nachtisch.96a282df3f5fe843785e.jpg",
+    "index.html": "/49_Tag_Lev1_1_projekt_js-reactjs_landingpage/index.html",
+    "main.94897397.css.map": "/49_Tag_Lev1_1_projekt_js-reactjs_landingpage/static/css/main.94897397.css.map",
+    "main.a18f9e9f.js.map": "/49_Tag_Lev1_1_projekt_js-reactjs_landingpage/static/js/main.a18f9e9f.js.map",
+    "787.79290225.chunk.js.map": "/49_Tag_Lev1_1_projekt_js-reactjs_landingpage/static/js/787.79290225.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94897397.css",
+    "static/js/main.a18f9e9f.js"
+  ]
+}
